@@ -6,8 +6,8 @@ export default [
     id: "1",
     // type: "input",
     data: { label: "Label Generator" },
-    sourcePosition: 'left' ,
-    targetPosition: 'right',
+    // sourcePosition: 'left' ,
+    // targetPosition: 'right',
     position,
   },
 
